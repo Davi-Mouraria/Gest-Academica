@@ -35,7 +35,7 @@ Os scripts podem ser executados usando ferramentas como SQL*Plus ou Oracle SQL D
 - **README.md**: Documentação do projeto.
 
 
-Integrantes do grupo:
+**Integrantes do grupo:**
 
 Davi Marinho de Mouraria - 185380
 Welinton Thiago Fechi Sandrin - 182371
@@ -43,10 +43,10 @@ Nicolas Costa Timoteo - 182824
 
 
 
-Atividades Realizadas de cada integrante:
+**Atividades Realizadas de cada integrante:**
 
-Davi - DML
+**Davi** - DML
 
-Welinton - DML
+**Welinton** - DML
 
-Nicolas - README.MD
+**Nicolas** - README.MD
