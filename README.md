@@ -47,6 +47,6 @@ Nicolas Costa Timoteo - 182824
 
 **Davi** - DML
 
-**Welinton** - DML
+**Welinton** - DDL
 
 **Nicolas** - README.MD
