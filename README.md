@@ -33,3 +33,20 @@ Os scripts podem ser executados usando ferramentas como SQL*Plus ou Oracle SQL D
 - **DDL/**: Contém o arquivo `estrutura.sql` com os comandos DDL.
 - **DML/**: Contém o arquivo `dados.sql` com os comandos DML.
 - **README.md**: Documentação do projeto.
+
+
+Integrantes do grupo:
+
+Davi Marinho de Mouraria - 185380
+Welinton Thiago Fechi Sandrin - 182371
+Nicolas Costa Timoteo - 182824
+
+
+
+Atividades Realizadas de cada integrante:
+
+Davi - DML
+
+Welinton - DML
+
+Nicolas - README.MD
